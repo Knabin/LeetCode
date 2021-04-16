@@ -1,6 +1,7 @@
 ### Problems
 | # | Problem | Difficulty | Language |
 |-|-|-|-|
+|7|[Reserve Integer](https://leetcode.com/problems/reverse-integer)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/0001_0100/0007_reverse-integer.cpp) |
 |1|[Two Sum](https://leetcode.com/problems/two-sum)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/0001_0100/0001_two-sum.cpp) |
 
 ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge)
