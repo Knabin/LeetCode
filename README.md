@@ -1,6 +1,7 @@
 ### Problems
 | # | Problem | Difficulty | Language |
 |:-:|-|:-:|:-:|
+|1608|[Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/1601_1700/1608_special-array-with-x-elements-greater-than-or-equal-x.cpp) |
 |326|[Power of Three](https://leetcode.com/problems/power-of-three)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/0301_0400/0326_power-of-three.cpp) |
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/0001_0100/0013_roman-to-integer.cpp) |
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/0001_0100/0009_palindrome-number.cpp) |
