@@ -1,6 +1,7 @@
 ### Problems
 | # | Problem | Difficulty | Language |
-|-|-|-|-|
+|:-:|-|:-:|:-:|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/0301_0400/0326_power-of-three.cpp) |
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/0001_0100/0013_roman-to-integer.cpp) |
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/0001_0100/0009_palindrome-number.cpp) |
 |7|[Reserve Integer](https://leetcode.com/problems/reverse-integer)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/0001_0100/0007_reverse-integer.cpp) |
@@ -14,7 +15,7 @@
 
 ### Learn
 | Title | Language |
-|-|-|
+|-|:-:|
 | [Arrays 101](https://leetcode.com/explore/learn/card/fun-with-arrays/) |  |
 | [Linked List](https://leetcode.com/explore/learn/card/linked-list/) |  |
 | [Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/) |  |
