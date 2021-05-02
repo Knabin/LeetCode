@@ -1,6 +1,7 @@
 ### Problems
 | # | Problem | Difficulty | Language |
 |:-:|-|:-:|:-:|
+|1844|[Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/1801_1900/1844_replace-all-digits-with-characters.cpp) |
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/1801_1900/1832_check-if-the-sentence-is-pangram.cpp) |
 |1784|[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/1701_1800/1784_check-if-binary-string-has-at-most-one-segment-of-ones.cpp) |
 |1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/1701_1800/1773_count-items-matching-a-rule.cpp) |
