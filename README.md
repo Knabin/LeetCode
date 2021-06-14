@@ -2,6 +2,7 @@
 | # | Problem | Difficulty | Language |
 |:-:|-|:-:|:-:|
 |1880|[Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/1801_1900/1880_check-if-word-equals-summation-of-two-words.cpp) |
+|1859|[Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/1801_1900/1859_sorting-the-sentence.cpp) |
 |1844|[Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/1801_1900/1844_replace-all-digits-with-characters.cpp) |
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/1801_1900/1832_check-if-the-sentence-is-pangram.cpp) |
 |1828|[Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle)| ![medium](https://img.shields.io/badge/-medium-orange?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/1801_1900/1828_queries-on-number-of-points-inside-a-circle.cpp) |
