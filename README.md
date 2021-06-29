@@ -61,6 +61,7 @@
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/0001_0100/0013_roman-to-integer.cpp) |
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/0001_0100/0009_palindrome-number.cpp) |
 |7|[Reserve Integer](https://leetcode.com/problems/reverse-integer)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/0001_0100/0007_reverse-integer.cpp) |
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)| ![medium](https://img.shields.io/badge/-medium-orange?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/0001_0100/0002_add-two-numbers.cpp) |
 |1|[Two Sum](https://leetcode.com/problems/two-sum)| ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge) | [C++](https://github.com/Knabin/LeetCode/blob/master/0001_0100/0001_two-sum.cpp) |
 
 ![easy](https://img.shields.io/badge/-easy-brightgreen?style=for-the-badge)
